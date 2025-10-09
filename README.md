@@ -14,6 +14,8 @@
 
 This assignment focuses on understanding the **Model-View-Controller (MVC)** architectural pattern and its implementation in **Java Swing**. Through this exercise, we explore how Swing supports GUI development, how MVC structure is realized in practice, and how it can be applied to a simple **Cash Register system**.
 
+[Draw.io File](https://drive.google.com/file/d/1ZafGlkijgFtM5V7w3ryEmxI8YcMw8WFW/view?usp=sharing)
+
 ---
 
 ## Deliverable 1 – Swing Framework Investigation
